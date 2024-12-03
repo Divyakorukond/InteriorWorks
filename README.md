@@ -1,2 +1,2 @@
 ## Live Demo
-You can view the live demo of this project [here]([https://your-live-demo-url.com](https://divyakorukond.github.io/InteriorWorks/#Home)).
+Check out the live demo of this project (https://divyakorukond.github.io/InteriorWorks/#Home).
